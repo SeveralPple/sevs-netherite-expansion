@@ -1,0 +1,7 @@
+{
+  "variants": {
+      "": {
+        "model": "sevsnetheriteexpansion:block/sculk_ingot_block"
+      }
+  }
+}

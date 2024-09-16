@@ -1,0 +1,52 @@
+{
+  "item.sevsnetheriteexpansion.powerednetherite": "Powered Netherite Ingot",
+  "item.sevsnetheriteexpansion.chorus_steel": "Chorus Steel Netherite Ingot",
+  "item.sevsnetheriteexpansion.chorus_hematite": "Chorus Hematite",
+  "item.sevsnetheriteexpansion.sculk_ingot": "Sculk Infested Netherite Ingot",
+
+  "item.sevsnetheriteexpansion.powered_netherite_sword": "Powered Netherite Sword",
+  "item.sevsnetheriteexpansion.powered_netherite_pickaxe": "Powered Netherite Pickaxe",
+  "item.sevsnetheriteexpansion.powered_netherite_axe": "Powered Netherite Axe",
+  "item.sevsnetheriteexpansion.powered_netherite_shovel": "Powered Netherite Shovel",
+  "item.sevsnetheriteexpansion.powered_netherite_hoe": "Powered Netherite Hoe",
+
+
+  "item.sevsnetheriteexpansion.powered_netherite_helmet": "Powered Netherite Helmet",
+  "item.sevsnetheriteexpansion.powered_netherite_chestplate": "Powered Netherite Chestplate",
+  "item.sevsnetheriteexpansion.powered_netherite_leggings": "Powered Netherite Leggings",
+  "item.sevsnetheriteexpansion.powered_netherite_boots": "Powered Netherite Boots",
+
+
+  "item.sevsnetheriteexpansion.chorus_steel_helmet": "Chorus Steel Netherite Helmet",
+  "item.sevsnetheriteexpansion.chorus_steel_chestplate": "Chorus Steel Netherite Chestplate",
+  "item.sevsnetheriteexpansion.chorus_steel_leggings": "Chorus Steel Netherite Leggings",
+  "item.sevsnetheriteexpansion.chorus_steel_boots": "Chorus Steel Netherite Boots",
+
+
+  "item.sevsnetheriteexpansion.chorus_steel_sword": "Chorus Steel-Netherite Sword",
+  "item.sevsnetheriteexpansion.chorus_steel_pickaxe": "Chorus Steel-Netherite Pickaxe",
+  "item.sevsnetheriteexpansion.chorus_steel_axe": "Chorus Steel-Netherite Axe",
+  "item.sevsnetheriteexpansion.chorus_steel_shovel": "Chorus Steel-Netherite Shovel",
+  "item.sevsnetheriteexpansion.chorus_steel_hoe": "Chorus Steel-Netherite Hoe",
+
+  "item.sevsnetheriteexpansion.sculk_sword": "Sculk Infested Netherite Sword",
+  "item.sevsnetheriteexpansion.sculk_pickaxe": "Sculk Infested Netherite Pickaxe",
+  "item.sevsnetheriteexpansion.sculk_axe": "Sculk Infested Netherite Axe",
+  "item.sevsnetheriteexpansion.sculk_shovel": "Sculk Infested Netherite Shovel",
+  "item.sevsnetheriteexpansion.sculk_hoe": "Sculk Infested Netherite Hoe",
+
+  "item.sevsnetheriteexpansion.sculk_helmet": "Sculk Infested Netherite Helmet",
+  "item.sevsnetheriteexpansion.sculk_chestplate": "Sculk Infested Netherite Chestplate",
+  "item.sevsnetheriteexpansion.sculk_leggings": "Sculk Infested Netherite Leggings",
+  "item.sevsnetheriteexpansion.sculk_boots": "Sculk Infested Netherite Boots",
+
+  "block.sevsnetheriteexpansion.compressed_redstone_block": "Compressed Redstone Block",
+  "block.sevsnetheriteexpansion.powered_netherite_block": "Powered Netherite Block",
+  "block.sevsnetheriteexpansion.chorus_steel_block": "Chorus Steel Netherite Block",
+  "block.sevsnetheriteexpansion.sculk_ingot_block": "Sculk Infested Netherite Block",
+
+  "item.sevsnetheriteexpansion.netherite_sandwich": "Netherite Sandwich",
+  "item.sevsnetheriteexpansion.netherite_dipped_carrot": "Netherite Dipped Golden Carrot",
+
+  "creativetab.sevsnetheriteexpansion_tab": "Sev's Netherite Expansion"
+}

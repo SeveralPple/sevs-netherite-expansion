@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sevsnetheriteexpansion:chorus_steel_block"
+    }
+  ],
+  "result": {
+    "item": "sevsnetheriteexpansion:chorus_steel",
+    "count": 9
+  }
+}

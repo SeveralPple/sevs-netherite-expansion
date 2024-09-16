@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sevsnetheriteexpansion:item/powered_netherite_helmet"
+  }
+}

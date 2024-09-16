@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sevsnetheriteexpansion:sculk_ingot"
+    }
+  },
+  "result": {
+    "item": "sevsnetheriteexpansion:sculk_ingot_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sevsnetheriteexpansion:sculk_ingot_block"
+    }
+  ],
+  "result": {
+    "item": "sevsnetheriteexpansion:sculk_ingot",
+    "count": 9
+  }
+}

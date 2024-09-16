@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "sevsnetheriteexpansion:compressed_redstone_block"
+  }
+}

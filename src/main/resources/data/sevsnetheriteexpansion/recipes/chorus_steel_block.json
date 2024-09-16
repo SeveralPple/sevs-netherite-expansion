@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sevsnetheriteexpansion:chorus_steel"
+    }
+  },
+  "result": {
+    "item": "sevsnetheriteexpansion:chorus_steel_block"
+  }
+}

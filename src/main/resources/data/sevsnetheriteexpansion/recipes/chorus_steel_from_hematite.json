@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "sevsnetheriteexpansion:chorus_hematite"
+  },
+  "base": {
+    "item": "sevsnetheriteexpansion:powerednetherite"
+  },
+  "result": {
+    "item": "sevsnetheriteexpansion:chorus_steel"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sevsnetheriteexpansion:item/sculk_chestplate"
+  }
+}

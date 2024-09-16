@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "sevsnetheriteexpansion:chorus_steel"
+  },
+  "base": {
+    "item": "sevsnetheriteexpansion:powered_netherite_leggings"
+  },
+  "result": {
+    "item": "sevsnetheriteexpansion:chorus_steel_leggings"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

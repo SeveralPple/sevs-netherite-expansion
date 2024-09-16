@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sevsnetheriteexpansion:powered_netherite_block"
+    }
+  ],
+  "result": {
+    "item": "sevsnetheriteexpansion:powerednetherite",
+    "count": 9
+  }
+}

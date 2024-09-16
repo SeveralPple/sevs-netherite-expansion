@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "DBE",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_block"
+    },
+     "D": {
+       "item": "minecraft:dragon_breath"
+     },
+    "E": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "B": {
+      "item": "minecraft:beacon"
+    }
+  },
+  "result": {
+    "item": "sevsnetheriteexpansion:netherite_sandwich"
+  }
+}

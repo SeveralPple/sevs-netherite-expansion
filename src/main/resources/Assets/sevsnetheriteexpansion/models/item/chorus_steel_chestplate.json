@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sevsnetheriteexpansion:item/chorus_steel_chestplate"
+  }
+}

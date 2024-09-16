@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sevsnetheriteexpansion:compressed_redstone_block"
+    },
+    {
+      "item": "sevsnetheriteexpansion:compressed_redstone_block"
+    },
+    {
+      "item": "sevsnetheriteexpansion:compressed_redstone_block"
+    },
+    {
+      "item": "sevsnetheriteexpansion:compressed_redstone_block"
+    },
+    {
+      "item": "sevsnetheriteexpansion:compressed_redstone_block"
+    },
+    {
+      "item": "sevsnetheriteexpansion:compressed_redstone_block"
+    },
+    {
+      "item": "sevsnetheriteexpansion:compressed_redstone_block"
+    },
+    {
+      "item": "sevsnetheriteexpansion:compressed_redstone_block"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "result": {
+    "item": "sevsnetheriteexpansion:powerednetherite"
+  }
+}
